@@ -14,6 +14,8 @@ Due to privacy reasons , only one room can be shared here, with some of the name
 
 Links:
 
+In this repository there is the code for the craft room.
+
 A walkthrough video showing the user experience on the main page and going into the "craft" room.
 https://drive.google.com/drive/folders/1ZR0gE7yrC1HwrDoYJUnax98aLWcvEV5t?usp=sharing
 
