@@ -5,8 +5,8 @@ this years Arts Festival.
 
 The aim of the site was to mimic a gallery and how a visitor would feel at the arts festival, if like previous years the art festival was in person.
 
-The format of the website was to have a main page (created by my colleage Robin) with six doors : performance, written, photography, music, digital, and craft.
-These doors linked to the pages I made with the art submitted in frames on the main page. Inidivudal works on this page could also be selected and then
+The format of the website was to have a main page (created by my colleague Robin) with six doors : performance, written, photography, music, digital, and craft.
+These doors linked to the pages I made with the art submitted in frames on the main page. Individual works on this page could also be selected and then
 the user is taken to a page with a large version of the artwork and a description, this mimics in a real gallery moving closer to the artwork to understand more.
 
 
